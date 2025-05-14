@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tomcools-twitch-mcp-badge.png)](https://mseep.ai/app/tomcools-twitch-mcp)
+
 # Twitch MCP Server
 
 I got inspired to build this because of the following blog post
